@@ -1,0 +1,5 @@
+{
+  "name": "Pirahy Service Desk",
+  "description": "Sistema de Service Desk para a Pirahy Alimentos com painel Kanban para a equipe de TI.",
+  "requestFramePermissions": []
+}
